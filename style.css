@@ -1,0 +1,61 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+#my-name{
+    color:palevioletred;
+    font-size: 35px;
+    font-weight: bold;
+
+}
+#biography{
+    color: gray;
+}
+
+.first-section{
+    
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 720px;
+}
+.second-section{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 720px;
+}
+.third-section{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 720px;
+    
+}
+.half-width{
+    width: 35%;
+    float: left;
+    padding: 5%;
+    margin: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.all-work-image{
+    margin: 10% 10%;
+    
+}
+.work-image{
+    float: left;
+}
+
+.third-section h1{
+    font-size: 30px;
+    margin-left: 0px;
+    text-align: center;
+}
+.third-section img{
+
+    width: 33%;
+    padding:1px;
+    
+}
