@@ -28,8 +28,14 @@ body{
     background-image: url(images/latest-work-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 720px;
-    
+    height: 500px;
+}
+.last-section{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    text-align: center;
 }
 .half-width{
     width: 35%;
@@ -52,10 +58,22 @@ body{
     font-size: 30px;
     margin-left: 0px;
     text-align: center;
+    padding-top: 30px;
 }
 .third-section img{
-
     width: 33%;
-    padding:1px;
-    
+}
+.client-area{
+    margin: 5px 200px;
+}
+.mail-box{
+    margin: 2% 20%;
+    background-image: linear-gradient(90deg, purple, palevioletred);
+    padding: 10px 10px;
+    border-radius: 10px;
+    color: white;
+}
+footer{
+    text-align: center;
+    font-size: 12px;
 }
