@@ -10,6 +10,7 @@ body{
 #biography{
     padding-top: 150px;
     color: darkslategray;
+    font-size: 45px;
 }
 p{
     font-size: 18px;
@@ -78,6 +79,7 @@ p{
 }
 .client-area h1{
     font-size: 40px;
+    padding-top: 50px;
 }
 .client-area h3{
     font-size: 25px;
